@@ -1,0 +1,5 @@
+@import url('../css/font.css');
+@font-face {
+    font-family: Mukta;
+    src: url('../mukta/Mukta-Regular.ttf');
+}
