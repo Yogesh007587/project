@@ -86,7 +86,7 @@ p{
     top: 0;
     width: 90%;
     cursor: pointer;
-    display: none;
+    /* display: none; */
 }
 .nav .toggle .toggle-icons{
     display: flex;
