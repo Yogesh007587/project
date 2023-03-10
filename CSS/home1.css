@@ -81,19 +81,19 @@ p{
 .nav .nav-menu{
    justify-content: space-between ;
 }
-.nav .toggle{
+.nav .toggle-collapse{
     position: absolute;
     top: 0;
     width: 90%;
     cursor: pointer;
     /* display: none; */
 }
-.nav .toggle .toggle-icons{
+.nav .toggle-collapse .toggle-icons{
     display: flex;
     justify-content: flex-end;
     padding: 1.7rem 0;
 }
-.nav .toggle .toggle-icons i{
+.nav .toggle-collapse .toggle-icons i{
     font-size: 1.4rem;
     color: var(--text-gray);
 
