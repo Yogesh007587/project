@@ -30,7 +30,7 @@ $(document).ready(function(){
         dots:false,
         nav:true,
         navText:[$('.owl-navigation .owl-nav-prev'), $('.owl-navigation .owl-nav-next')],
-        resposive: responsive
+        responsive: responsive
     });
 
     //click to scroll top
